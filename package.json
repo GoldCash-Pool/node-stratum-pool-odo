@@ -31,11 +31,11 @@
         "async": "^3.1.0",
         "base58-native": "^0.1.4",
         "bchaddrjs": "^0.4.2",
-        "bignum": "https://github.com/MadCatMining/node-bignum.git",
-        "cryptocurrency-addr": "https://github.com/MadCatMining/node-cryptocurrency-addr.git",
-        "multi-hashing": "https://github.com/MadCatMining/node-multi-hashing-odo.git"
+        "bignum": "https://github.com/GoldCash-Pool/node-bignum.git",
+        "cryptocurrency-addr": "https://github.com/GoldCash-Pool/node-cryptocurrency-addr.git",
+        "multi-hashing": "https://github.com/GoldCash-Pool/node-multi-hashing-odo.git"
     },
     "engines": {
-        "node": ">=0.10"
+        "node": ">=6.11.2"
     }
 }
